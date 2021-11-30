@@ -32,6 +32,7 @@ int main(){
             compcnt++;
         }
     }
+ 
     cout << compcnt << endl;
     for(int i = 0; i < compcnt; i++){
         cout << c[i].size() << endl;
